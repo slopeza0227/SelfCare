@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SelfCare</string>
+    <string name="title">Atención</string>
+    <string name="content">Recuerda el uso adecuado de los dispositivos, cuidarlos es nuestra responsabilidad.</string>
+    <string name="button_close">Cerrar</string>
+</resources>
